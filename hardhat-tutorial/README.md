@@ -11,5 +11,5 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 
-Crypto Devs Contract Address: 0xa051f2A60F842A50Ef380941eEE3eF5d9E59E12b
+Crypto Devs Contract Address: 0x919F83FFE709ba93986E852cB770616bA8B41cCc
 ```
